@@ -1,0 +1,102 @@
+name: cashcard
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.16.2 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_svg: ^1.0.3
+  auto_size_text: 3.0.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/cashcard/assets/images/vector.svg
+    - packages/cashcard/assets/images/rectangle1145.svg
+    - packages/cashcard/assets/images/ellipse58.png
+    - packages/cashcard/assets/images/ellipse59.png
+    - packages/cashcard/assets/images/9mobile2.png
+    - packages/cashcard/assets/images/airtel2.png
+    - packages/cashcard/assets/images/glo2.png
+    - packages/cashcard/assets/images/mtn2.png
+    - packages/cashcard/assets/images/navbarline.svg
+    - packages/cashcard/assets/images/smartphone.svg
+    - packages/cashcard/assets/images/signalcellularconnectednointernet4bar.svg
+    - packages/cashcard/assets/images/ellipse60.png
+    - packages/cashcard/assets/images/ellipse61.png
+    - packages/cashcard/assets/images/ellipse62.png
+    - packages/cashcard/assets/images/group.svg
+    - packages/cashcard/assets/images/fasolidfileinvoice.svg
+    - packages/cashcard/assets/images/component114213.png
+    - packages/cashcard/assets/images/rectangle1149.svg
+    - packages/cashcard/assets/images/ellipse63.png
+    - packages/cashcard/assets/images/ellipse64.png
+    - packages/cashcard/assets/images/9mobile3.png
+    - packages/cashcard/assets/images/airtel3.png
+    - packages/cashcard/assets/images/glo3.png
+    - packages/cashcard/assets/images/mtn3.png
+    - packages/cashcard/assets/images/ellipse65.png
+    - packages/cashcard/assets/images/ellipse66.png
+    - packages/cashcard/assets/images/ellipse67.png
+    - packages/cashcard/assets/images/component114214.png
+    - packages/cashcard/assets/images/rectangle1157.svg
+    - packages/cashcard/assets/images/ellipse73.png
+    - packages/cashcard/assets/images/ellipse74.png
+    - packages/cashcard/assets/images/ellipse75.png
+    - packages/cashcard/assets/images/ellipse76.png
+    - packages/cashcard/assets/images/ellipse77.png
+    - packages/cashcard/assets/images/showmaxlogo1.png
+    - packages/cashcard/assets/images/dstv.png
+    - packages/cashcard/assets/images/startimes.png
+    - packages/cashcard/assets/images/gotv.png
+    - packages/cashcard/assets/images/component114215.png
+    - packages/cashcard/assets/images/component114216.png
+    - packages/cashcard/assets/images/home.svg
+    - packages/cashcard/assets/images/calling.svg
+    - packages/cashcard/assets/images/paperupload.svg
+    - packages/cashcard/assets/images/notification.svg
+    - packages/cashcard/assets/images/2user.svg
+    - packages/cashcard/assets/images/rectangle1153.svg
+    - packages/cashcard/assets/images/ellipse68.png
+    - packages/cashcard/assets/images/ellipse69.png
+    - packages/cashcard/assets/images/aedclogo.png
+    - packages/cashcard/assets/images/kaedcoelectric.png
+    - packages/cashcard/assets/images/joselectrics.png
+    - packages/cashcard/assets/images/kedcoelectric.png
+    - packages/cashcard/assets/images/phed.png
+    - packages/cashcard/assets/images/ie.png
+    - packages/cashcard/assets/images/ekedc.png
+    - packages/cashcard/assets/images/ibedc.png
+    - packages/cashcard/assets/images/ellipse70.png
+    - packages/cashcard/assets/images/ellipse71.png
+    - packages/cashcard/assets/images/ellipse72.png
+    - packages/cashcard/assets/images/rectangle5.svg
+    - packages/cashcard/assets/images/rectangle.png
+    - packages/cashcard/assets/images/combinedshape.png
+    - packages/cashcard/assets/images/wifi.png
+    - packages/cashcard/assets/images/component2513.png
+    - packages/cashcard/assets/images/rectangle1138.svg
+    - packages/cashcard/assets/images/ellipse55.png
+    - packages/cashcard/assets/images/ellipse53.png
+    - packages/cashcard/assets/images/9mobile1.png
+    - packages/cashcard/assets/images/airtel1.png
+    - packages/cashcard/assets/images/glo1.png
+    - packages/cashcard/assets/images/mtn1.png
+    - packages/cashcard/assets/images/ellipse54.png
+    - packages/cashcard/assets/images/ellipse56.png
+    - packages/cashcard/assets/images/ellipse57.png
+    - packages/cashcard/assets/images/profilepicture.png
+    - packages/cashcard/assets/images/herobgzero2x1.png
+    - packages/cashcard/assets/images/rectangle2.svg
+    - packages/cashcard/assets/images/ellipse1.svg
+    - packages/cashcard/assets/images/ellipse2.png
+    - packages/cashcard/assets/images/ellipse3.png
+    - packages/cashcard/assets/images/ellipse6.png
+    - packages/cashcard/assets/images/ellipse4.png
+    - packages/cashcard/assets/images/ellipse5.png
